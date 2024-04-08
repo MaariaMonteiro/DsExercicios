@@ -1,1 +1,1 @@
-# Aqui estão os exercicios de DS, usados com treinamento para prova.
+# Aqui estão os exercicios de DS, usados como treinamento para prova.
